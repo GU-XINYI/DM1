@@ -1,5 +1,5 @@
 # Data Mining: fundamentals (2023-24)
-DM1 Project: **Spotify tracks** dataset
+DM1 Project: **Spotify tracks** dataset ([final report](Report_Ye_Gu_Li.pdf))
 
 <p align="center">
   <img src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/spotify.com/spotify.svg" alt="Spotify Logo" width="200"/>
@@ -19,6 +19,6 @@ Dataset provided by the lecturers of the [course](http://didawiki.cli.di.unipi.i
 # Tasks
 - [Data preparation](./scripts/data_understanding_prep.ipynb)
 - [Clustering](./scripts/clustering_w/outlier.ipynb): K-Means · DBSCAN · Hierarchical
-- Classification: KNN · NaiveBayes · [Decision Tree](./scripts/decision_tree.ipynb)
-- [Regression]:
+- Classification: [KNN · NaiveBayes](./scripts/knn+naive_bayes+linear_reg.ipynb) · [Decision Tree](./scripts/decision_tree.ipynb)
+- [Regression](./scripts/knn+naive_bayes+linear_reg.ipynb): simple · multiple · multivariate · non-linear
 - [Pattern mining](./scripts/pattern_mining.ipynb)
