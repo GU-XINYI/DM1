@@ -1,5 +1,8 @@
 # Data Mining: fundamentals (2023-24)
-DM1 Project: [Dataset](dataset)  |  [Codes](scripts)  |  [final report](Report_Ye_Gu_Li.pdf)
+DM1 Project: [Dataset](dataset)  |  [Codes](scripts)  |  [Final report](Report_Ye_Gu_Li.pdf)
+
+Practical level of the Data Mining course, a project need to be created and presented that requires to analyze a spotify dataset with different mining methods using python. And a written report need to be prepared showing the results of the project activity and the interpretation of the results found.
+
 
 <p align="center">
   <img src="https://github.com/raivo-otp/issuer-icons/blob/master/vectors/spotify.com/spotify.svg" alt="Spotify Logo" width="200"/>
