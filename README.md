@@ -17,7 +17,7 @@ Dataset provided by the lecturers of the [course](http://didawiki.cli.di.unipi.i
 - Congle Ye
 
 # Tasks
-- [Data preparation](data_understanding_prep.ipynb)
+- [Data preparation](./scripts/data_understanding_prep.ipynb)
 - [Clustering]
 - [Classification]
 - [Regression]
