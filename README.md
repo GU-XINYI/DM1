@@ -18,7 +18,7 @@ Dataset provided by the lecturers of the [course](http://didawiki.cli.di.unipi.i
 
 # Tasks
 - [Data preparation](./scripts/data_understanding_prep.ipynb)
-- [Clustering]
-- [Classification]
-- [Regression]
-- [Pattern mining]
+- [Clustering](./scripts/clustering_w/outlier.ipynb): K-Means · DBSCAN · Hierarchical
+- Classification: KNN · NaiveBayes · [Decision Tree](./scripts/decision_tree.ipynb)
+- [Regression]:
+- [Pattern mining](./scripts/pattern_mining.ipynb)
