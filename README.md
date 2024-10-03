@@ -9,7 +9,7 @@ Practical level of the Data Mining course, a project need to be created and pres
 </p>
 
 # Spotify tracks dataset 
-Dataset provided by the lecturers of the [course](http://didawiki.cli.di.unipi.it/doku.php/dm/start).
+Dataset provided by the lecturers of the [course](http://didawiki.cli.di.unipi.it/doku.php/dm/dm_ds2023-24).
 
 "The Spotify Tracks dataset contains data concerning audio tracks accessible via the Spotify catalogue. These tracks span 20 distinct genres, such as techno, idm, study, and black-metal. Each track is equipped with fundamental attributes: track name, artist, album name, and its popularity within the catalogue. Additionally, audio-derived features are included, encompassing aspects like danceability, energy, key, and loudness."
 
